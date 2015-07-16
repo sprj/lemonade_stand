@@ -4,3 +4,9 @@ rvm:
   - 2.0.0
   - 2.1
   - 2.2
+gemfile: 
+  - Gemfile
+
+notifications:
+  email:
+    - sushil.kumar.2757@gmail.com
